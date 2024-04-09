@@ -1,15 +1,30 @@
-### Olá! Eu sou o Crow!
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-eduardo-soares-moreira/)
+# Bem-vindo ao Meu Perfil! 👋
 
-![Crow3442 GitHub stats](https://github-readme-stats.vercel.app/api?username=Crow3442&show_icons=true&theme=dark)
+## Sobre Mim
+Olá! Meu nome é João Eduardo. Sou formado em Redes e Arquitetura de Computadores pelo COTEMIG e atualmente estou cursando Engenharia de Software na PUC Minas. Tenho interesse em diversas áreas, incluindo música, jogos, cinema, leitura e, é claro, tecnologia!
 
+## Interesses
+- 🎵 Música: Sou apaixonado por música e gosto de explorar diferentes gêneros.
+- 🎮 Jogos: Adoro passar um tempo jogando e descobrindo novos jogos.
+- 🎬 Cinema: Sou um cinéfilo e estou sempre em busca de novos filmes para assistir.
+- 📚 Leitura: A leitura é uma parte importante da minha vida. Sempre estou lendo algo novo, seja ficção, não-ficção ou artigos online.
+- 💻 Tecnologia: Tenho interesse em aprender sobre novas tecnologias e desenvolver minhas habilidades na área de engenharia de software.
 
+## Contato
+Se você quiser entrar em contato comigo ou apenas bater um papo, sinta-se à vontade para me enviar uma mensagem!
 
-<div style="display: inline_block">
-  <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img align="center" alt="Html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="Html" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="Html" src="https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-   
-</div>
- 
+- LinkedIn: [João Eduardo](https://www.linkedin.com/in/crow3442/)
+- Email: [joao.rezende500@gmail.com]((https://www.linkedin.com/in/seu-linkedin/)
+
+Sinta-se à vontade para explorar meus repositórios para ver meus projetos!
+
+## Idiomas
+- Português (nativo)
+- Inglês (intermediário)
+
+## Contribuições
+Estou sempre aberto a contribuições e feedback. Se você tiver alguma sugestão para melhorar meus projetos ou quiser colaborar, não hesite em entrar em contato!
+
+## Agradecimentos
+Agradeço por visitar meu perfil e espero que você encontre algo interessante por aqui! 😊
+
