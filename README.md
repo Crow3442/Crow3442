@@ -14,7 +14,7 @@ Olá! Meu nome é João Eduardo. Sou formado em Redes e Arquitetura de Computado
 Se você quiser entrar em contato comigo ou apenas bater um papo, sinta-se à vontade para me enviar uma mensagem!
 
 - LinkedIn: [João Eduardo](https://www.linkedin.com/in/crow3442/)
-- Email: [joao.rezende500@gmail.com]((https://www.linkedin.com/in/seu-linkedin/)
+- Email: [joao.rezende500@gmail.com](joao.rezende500@gmail.com)
 
 Sinta-se à vontade para explorar meus repositórios para ver meus projetos!
 
